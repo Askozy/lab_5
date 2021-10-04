@@ -173,7 +173,7 @@ body {
 
 
     .car_ph {
-        background: url(images/c1.jpg.png) no-repeat;
+        background: url('images/c1.jpg.png') no-repeat;
         background-size: 100% auto;
         height: 81vh;
         max-width: 1600px;
